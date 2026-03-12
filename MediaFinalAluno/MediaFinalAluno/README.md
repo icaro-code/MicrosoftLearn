@@ -13,4 +13,5 @@ Identifique os tipos de dados apropriados para armazenar e trabalhar com variáve
 
 Execute operações matemáticas para determinar os resultados.
 
-Aplique técnicas de formatação para exibir a saída.
+Aplique técnicas de formatação para exibir a saída
+
